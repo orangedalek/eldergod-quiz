@@ -5,3 +5,8 @@
 #Question three: define q3 as the input to asking user to choose one of four celebrities named Ryan. Assign a numerical value to each answer. If input is not a,b,c or d, print “Please pick a,b,c or d”
 #Question four: define q4 as the input to asking user to choose one of four unicorn foods. Assign a numerical value to each answer. If input is not a,b,c or d, print “Please pick a,b,c or d”
 #Calculate total score: Define total score as the sum of Q1-Q4. For a score of less than 100, the result will be Cthulu. For a score of less than 200, the result will be Nyogtha. For a score of less than 300, the result will be Tsathoggua. For a score of 300 or higher, the result will be The Worm that Gnaws in the Night.
+
+
+Notes:  Currently, I’ve got a whole lot of conditionals. I’d like to find a way to work in some loops and other skills, but I want the points to assign differently of every question, not in a way where a always = 25 points, etc…
+
+I’ll be doing my first draft this weekend and hopefully getting it up and running, but I’d love to work in some fancier code, maybe during code brunches!
