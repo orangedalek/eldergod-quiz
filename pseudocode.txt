@@ -1,0 +1,7 @@
+#Begin with a total score of zero.
+#Ask user to answer: “Welcome to the elder god quiz! Type begin to play!” If player types begin (use lower method), start the quiz. Otherwise, print “Maybe Later!”
+#Question one: define q1 as the input to asking user to choose one of four kittens. Assign a numerical value to each answer. If input is not a,b,c or d, print “Please pick a,b,c or d”
+#Question two: define q2 as the input to asking user to choose one of four British comfort foods. Assign a numerical value to each answer. If input is not a,b,c or d, print “Please pick a,b,c or d”
+#Question three: define q3 as the input to asking user to choose one of four celebrities named Ryan. Assign a numerical value to each answer. If input is not a,b,c or d, print “Please pick a,b,c or d”
+#Question four: define q4 as the input to asking user to choose one of four unicorn foods. Assign a numerical value to each answer. If input is not a,b,c or d, print “Please pick a,b,c or d”
+#Calculate total score: Define total score as the sum of Q1-Q4. For a score of less than 100, the result will be Cthulu. For a score of less than 200, the result will be Nyogtha. For a score of less than 300, the result will be Tsathoggua. For a score of 300 or higher, the result will be The Worm that Gnaws in the Night.
