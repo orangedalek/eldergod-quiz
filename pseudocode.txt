@@ -10,3 +10,20 @@
 Notes:  Currently, I’ve got a whole lot of conditionals. I’d like to find a way to work in some loops and other skills, but I want the points to assign differently of every question, not in a way where a always = 25 points, etc…
 
 I’ll be doing my first draft this weekend and hopefully getting it up and running, but I’d love to work in some fancier code, maybe during code brunches!
+
+ans1 = raw_input(""""Pick a cuddly kitten!
+        a) Steve!
+        b)Sammie
+        c) Tiger!
+        d)Minerva!
+          """)
+if ans1 == "a".lower():
+    q1 = 25
+    elif ans1 == "b".lower():
+        q1 = 50
+    elif ans1 == "c".lower():
+        q1 = 75
+    elif ans1 == "d".lower():
+        q1 = 100
+        else:
+            print "Please pick a,b,c or d"
